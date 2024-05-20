@@ -1,0 +1,501 @@
+No.,Age,Gender,Beverage Ordered,Size,Price,Payment Method,Transaction ID,Staff Name,Staff ID
+1,40,Female,Iced Tea,Large,3.90,Cash,101001,Razhan,100
+2,27,Male,Cold Chocolate,Medium,3.90,Cash,101002,Ibrahim,102
+3,37,Male,Hot Chocolate,Large,5.20,Mobile Payment,101003,Daryan,101
+4,26,Female,Americano,Medium,3.90,Cash,101004,Razhan,100
+5,33,Male,Espresso,Large,5.20,Credit Card,101005,Daryan,101
+6,42,Female,Latte,Large,5.20,Mobile Payment,101006,Daryan,101
+7,25,Female,Cappuccino,Small,2.40,Mobile Payment,101007,Daryan,101
+8,24,Male,Frappuccino,Large,5.20,Credit Card,101008,Ibrahim,102
+9,45,Female,Cappuccino,Large,5.20,Cash,101009,Razhan,100
+10,21,Female,Iced Tea,Small,2.40,Mobile Payment,101010,Razhan,100
+11,41,Female,Espresso,Large,5.20,Mobile Payment,101011,Razhan,100
+12,17,Male,Frappuccino,Large,5.20,Mobile Payment,101012,Ravin,103
+13,40,Male,Frappuccino,Small,2.40,Mobile Payment,101013,Razhan,100
+14,42,Male,Cold Chocolate,Large,5.20,Credit Card,101014,Daryan,101
+15,24,Male,Hot Chocolate,Small,2.40,Mobile Payment,101015,Ravin,103
+16,20,Female,Mocha,Medium,3.90,Mobile Payment,101016,Razhan,100
+17,31,Male,Americano,Large,5.20,Mobile Payment,101017,Daryan,101
+18,46,Male,Hot Chocolate,Medium,3.90,Mobile Payment,101018,Razhan,100
+19,50,Female,Espresso,Medium,3.90,Cash,101019,Daryan,101
+20,49,Male,Frappuccino,Small,2.40,Cash,101020,Razhan,100
+21,46,Male,Hot Chocolate,Medium,3.90,Credit Card,101021,Ravin,103
+22,36,Male,Hot Chocolate,Medium,3.90,Credit Card,101022,Razhan,100
+23,44,Male,Iced Tea,Large,5.20,Cash,101023,Razhan,100
+24,47,Female,Cold Brew,Medium,3.90,Mobile Payment,101024,Ibrahim,102
+25,46,Female,Latte,Large,5.20,Mobile Payment,101025,Ibrahim,102
+26,24,Female,Americano,Small,2.40,Mobile Payment,101026,Ravin,103
+27,37,Female,Iced Tea,Large,5.20,Credit Card,101027,Daryan,101
+28,36,Female,Latte,Large,5.20,Cash,101028,Ravin,103
+29,27,Male,Cappuccino,Medium,3.90,Cash,101029,Ravin,103
+30,45,Male,Cold Brew,Small,2.40,Mobile Payment,101030,Daryan,101
+31,18,Male,Cold Chocolate,Small,2.40,Cash,101031,Ibrahim,102
+32,38,Female,Hot Chocolate,Small,2.40,Mobile Payment,101032,Ravin,103
+33,22,Male,Frappuccino,Small,2.40,Cash,101033,Ibrahim,102
+34,17,Male,Espresso,Small,2.40,Mobile Payment,101034,Ibrahim,102
+35,29,Female,Cappuccino,Small,2.40,Credit Card,101035,Ibrahim,102
+36,43,Female,Cold Chocolate,Small,2.40,Cash,101036,Razhan,100
+37,22,Male,Cold Brew,Medium,3.90,Credit Card,101037,Daryan,101
+38,18,Female,Iced Tea,Small,2.40,Cash,101038,Ravin,103
+39,20,Female,Espresso,Large,5.20,Cash,101039,Ravin,103
+40,35,Male,Frappuccino,Small,2.40,Credit Card,101040,Ibrahim,102
+41,49,Female,Cappuccino,Large,5.20,Credit Card,101041,Ravin,103
+42,48,Female,Americano,Medium,3.90,Cash,101042,Ravin,103
+43,26,Female,Espresso,Large,5.20,Cash,101043,Ravin,103
+44,40,Female,Cappuccino,Medium,3.90,Mobile Payment,101044,Ravin,103
+45,28,Male,Cappuccino,Large,5.20,Cash,101045,Razhan,100
+46,37,Female,Cold Brew,Small,2.40,Credit Card,101046,Ravin,103
+47,17,Female,Cold Brew,Medium,3.90,Cash,101047,Ravin,103
+48,35,Male,Americano,Small,2.40,Cash,101048,Daryan,101
+49,19,Female,Espresso,Medium,3.90,Mobile Payment,101049,Ibrahim,102
+50,25,Female,Latte,Medium,3.90,Cash,101050,Ibrahim,102
+51,48,Male,Cappuccino,Small,2.40,Mobile Payment,101051,Ibrahim,102
+52,47,Male,Frappuccino,Small,2.40,Credit Card,101052,Ibrahim,102
+53,36,Male,Hot Chocolate,Medium,3.90,Mobile Payment,101053,Ibrahim,102
+54,29,Female,Latte,Large,5.20,Credit Card,101054,Daryan,101
+55,23,Female,Iced Tea,Small,2.40,Credit Card,101055,Ravin,103
+56,33,Male,Frappuccino,Small,2.40,Credit Card,101056,Ibrahim,102
+57,45,Female,Espresso,Medium,3.90,Credit Card,101057,Razhan,100
+58,22,Male,Latte,Medium,3.90,Credit Card,101058,Ravin,103
+59,41,Female,Espresso,Medium,3.90,Credit Card,101059,Ibrahim,102
+60,33,Male,Hot Chocolate,Small,2.40,Cash,101060,Ravin,103
+61,31,Female,Cappuccino,Large,5.20,Cash,101061,Ravin,103
+62,27,Male,Hot Chocolate,Medium,3.90,Credit Card,101062,Daryan,101
+63,37,Female,Latte,Small,2.40,Credit Card,101063,Ravin,103
+64,38,Male,Espresso,Small,2.40,Credit Card,101064,Ravin,103
+65,22,Female,Mocha,Large,5.20,Mobile Payment,101065,Razhan,100
+66,20,Female,Cold Chocolate,Small,2.40,Cash,101066,Daryan,101
+67,47,Female,Mocha,Small,2.40,Cash,101067,Ibrahim,102
+68,43,Male,Cappuccino,Small,2.40,Mobile Payment,101068,Ravin,103
+69,18,Female,Cold Brew,Small,2.40,Mobile Payment,101069,Ibrahim,102
+70,26,Male,Espresso,Large,5.20,Mobile Payment,101070,Daryan,101
+71,34,Male,Frappuccino,Medium,3.90,Cash,101071,Ibrahim,102
+72,30,Female,Frappuccino,Medium,3.90,Cash,101072,Ibrahim,102
+73,29,Female,Espresso,Medium,3.90,Credit Card,101073,Ravin,103
+74,26,Female,Cold Brew,Medium,3.90,Credit Card,101074,Ibrahim,102
+75,36,Female,Cold Brew,Small,2.40,Mobile Payment,101075,Ibrahim,102
+76,24,Male,Iced Tea,Small,2.40,Mobile Payment,101076,Ibrahim,102
+77,18,Female,Mocha,Medium,3.90,Cash,101077,Ravin,103
+78,39,Female,Frappuccino,Medium,3.90,Mobile Payment,101078,Ravin,103
+79,17,Female,Cappuccino,Medium,3.90,Cash,101079,Ibrahim,102
+80,41,Male,Iced Tea,Medium,3.90,Credit Card,101080,Razhan,100
+81,37,Female,Espresso,Large,5.20,Mobile Payment,101081,Ravin,103
+82,29,Male,Mocha,Medium,3.90,Credit Card,101082,Razhan,100
+83,27,Female,Espresso,Small,2.40,Mobile Payment,101083,Razhan,100
+84,39,Male,Espresso,Large,5.20,Cash,101084,Razhan,100
+85,42,Female,Mocha,Medium,3.90,Mobile Payment,101085,Daryan,101
+86,47,Female,Espresso,Medium,3.90,Mobile Payment,101086,Ibrahim,102
+87,21,Male,Espresso,Small,2.40,Cash,101087,Ravin,103
+88,24,Female,Espresso,Large,5.20,Credit Card,101088,Razhan,100
+89,23,Female,Cappuccino,Large,5.20,Cash,101089,Razhan,100
+90,35,Female,Hot Chocolate,Small,2.40,Mobile Payment,101090,Ravin,103
+91,38,Male,Cappuccino,Small,2.40,Mobile Payment,101091,Daryan,101
+92,44,Male,Cold Chocolate,Large,5.20,Cash,101092,Ravin,103
+93,33,Female,Frappuccino,Medium,3.90,Cash,101093,Razhan,100
+94,17,Female,Frappuccino,Large,5.20,Cash,101094,Daryan,101
+95,17,Female,Hot Chocolate,Large,5.20,Credit Card,101095,Razhan,100
+96,24,Female,Cold Brew,Large,5.20,Credit Card,101096,Ibrahim,102
+97,40,Female,Cappuccino,Medium,3.90,Credit Card,101097,Ibrahim,102
+98,49,Female,Frappuccino,Small,2.40,Cash,101098,Ibrahim,102
+99,23,Female,Frappuccino,Small,2.40,Cash,101099,Ibrahim,102
+100,49,Male,Espresso,Large,5.20,Credit Card,101100,Razhan,100
+101,27,Female,Hot Chocolate,Medium,3.90,Cash,101101,Ravin,103
+102,40,Female,Hot Chocolate,Medium,3.90,Credit Card,101102,Daryan,101
+103,31,Female,Hot Chocolate,Small,2.40,Mobile Payment,101103,Daryan,101
+104,40,Male,Iced Tea,Large,5.20,Mobile Payment,101104,Razhan,100
+105,20,Female,Espresso,Medium,3.90,Credit Card,101105,Daryan,101
+106,49,Female,Iced Tea,Large,5.20,Cash,101106,Ravin,103
+107,42,Female,Latte,Large,5.20,Mobile Payment,101107,Daryan,101
+108,35,Male,Espresso,Small,2.40,Mobile Payment,101108,Razhan,100
+109,20,Male,Cold Brew,Large,5.20,Mobile Payment,101109,Daryan,101
+110,41,Female,Espresso,Large,5.20,Mobile Payment,101110,Ibrahim,102
+111,47,Male,Americano,Large,5.20,Mobile Payment,101111,Ibrahim,102
+112,40,Male,Hot Chocolate,Large,5.20,Mobile Payment,101112,Ravin,103
+113,17,Female,Cold Chocolate,Medium,3.90,Cash,101113,Razhan,100
+114,46,Male,Hot Chocolate,Medium,3.90,Mobile Payment,101114,Daryan,101
+115,43,Male,Cold Chocolate,Small,2.40,Cash,101115,Daryan,101
+116,26,Male,Cold Brew,Medium,3.90,Credit Card,101116,Daryan,101
+117,43,Female,Hot Chocolate,Small,2.40,Cash,101117,Ibrahim,102
+118,48,Female,Hot Chocolate,Large,5.20,Mobile Payment,101118,Ibrahim,102
+119,43,Female,Frappuccino,Medium,3.90,Cash,101119,Ravin,103
+120,46,Female,Hot Chocolate,Small,2.40,Credit Card,101120,Ibrahim,102
+121,27,Male,Iced Tea,Medium,3.90,Credit Card,101121,Razhan,100
+122,36,Female,Latte,Small,2.40,Credit Card,101122,Daryan,101
+123,36,Male,Mocha,Large,5.20,Mobile Payment,101123,Ravin,103
+124,26,Male,Frappuccino,Small,2.40,Mobile Payment,101124,Daryan,101
+125,30,Female,Frappuccino,Large,5.20,Cash,101125,Ibrahim,102
+126,19,Male,Iced Tea,Medium,3.90,Credit Card,101126,Ibrahim,102
+127,22,Male,Cold Brew,Large,5.20,Mobile Payment,101127,Daryan,101
+128,49,Female,Mocha,Large,5.20,Cash,101128,Ibrahim,102
+129,37,Male,Frappuccino,Small,2.40,Mobile Payment,101129,Ravin,103
+130,34,Male,Mocha,Large,5.20,Credit Card,101130,Daryan,101
+131,42,Male,Iced Tea,Small,2.40,Credit Card,101131,Ibrahim,102
+132,19,Female,Latte,Medium,3.90,Mobile Payment,101132,Ravin,103
+133,44,Female,Americano,Large,5.20,Mobile Payment,101133,Daryan,101
+134,26,Female,Hot Chocolate,Large,5.20,Mobile Payment,101134,Razhan,100
+135,23,Male,Iced Tea,Large,5.20,Credit Card,101135,Ibrahim,102
+136,40,Female,Espresso,Medium,3.90,Mobile Payment,101136,Razhan,100
+137,26,Female,Cappuccino,Medium,3.90,Cash,101137,Daryan,101
+138,32,Female,Americano,Large,5.20,Cash,101138,Ravin,103
+139,29,Male,Cold Brew,Medium,3.90,Cash,101139,Daryan,101
+140,49,Male,Cold Chocolate,Small,2.40,Cash,101140,Razhan,100
+141,22,Male,Hot Chocolate,Medium,3.90,Credit Card,101141,Daryan,101
+142,37,Male,Mocha,Medium,3.90,Cash,101142,Daryan,101
+143,34,Female,Iced Tea,Small,2.40,Cash,101143,Ibrahim,102
+144,23,Male,Hot Chocolate,Large,5.20,Cash,101144,Daryan,101
+145,21,Male,Cold Brew,Small,2.40,Mobile Payment,101145,Ibrahim,102
+146,27,Female,Cold Brew,Medium,3.90,Cash,101146,Ibrahim,102
+147,31,Male,Iced Tea,Large,5.20,Cash,101147,Ibrahim,102
+148,48,Male,Espresso,Small,2.40,Cash,101148,Razhan,100
+149,44,Female,Cold Brew,Medium,3.90,Cash,101149,Ravin,103
+150,24,Female,Latte,Medium,3.90,Mobile Payment,101150,Ravin,103
+151,34,Female,Americano,Medium,3.90,Credit Card,101151,Ibrahim,102
+152,20,Male,Iced Tea,Large,5.20,Credit Card,101152,Ibrahim,102
+153,22,Female,Frappuccino,Medium,3.90,Cash,101153,Ravin,103
+154,43,Female,Cold Chocolate,Small,2.40,Mobile Payment,101154,Razhan,100
+155,35,Male,Cold Chocolate,Small,2.40,Mobile Payment,101155,Daryan,101
+156,34,Male,Iced Tea,Large,5.20,Credit Card,101156,Razhan,100
+157,29,Female,Cappuccino,Small,2.40,Cash,101157,Ibrahim,102
+158,18,Male,Cold Chocolate,Small,2.40,Credit Card,101158,Daryan,101
+159,29,Male,Hot Chocolate,Large,5.20,Cash,101159,Ravin,103
+160,33,Female,Iced Tea,Small,2.40,Cash,101160,Daryan,101
+161,38,Female,Cappuccino,Medium,3.90,Cash,101161,Ravin,103
+162,49,Female,Cappuccino,Large,5.20,Cash,101162,Ravin,103
+163,47,Male,Mocha,Medium,3.90,Cash,101163,Razhan,100
+164,21,Female,Iced Tea,Medium,3.90,Mobile Payment,101164,Razhan,100
+165,28,Male,Latte,Small,2.40,Mobile Payment,101165,Daryan,101
+166,42,Female,Mocha,Small,2.40,Cash,101166,Ravin,103
+167,38,Male,Iced Tea,Medium,3.90,Cash,101167,Ibrahim,102
+168,43,Male,Mocha,Medium,3.90,Credit Card,101168,Ravin,103
+169,35,Male,Hot Chocolate,Large,5.20,Mobile Payment,101169,Daryan,101
+170,25,Female,Iced Tea,Medium,3.90,Cash,101170,Razhan,100
+171,42,Female,Espresso,Large,5.20,Cash,101171,Ravin,103
+172,35,Male,Hot Chocolate,Medium,3.90,Cash,101172,Ibrahim,102
+173,21,Male,Mocha,Large,5.20,Cash,101173,Ravin,103
+174,34,Male,Mocha,Large,5.20,Mobile Payment,101174,Ravin,103
+175,43,Male,Americano,Large,5.20,Mobile Payment,101175,Ravin,103
+176,21,Male,Americano,Medium,3.90,Mobile Payment,101176,Razhan,100
+177,36,Female,Americano,Large,5.20,Credit Card,101177,Ravin,103
+178,31,Female,Americano,Medium,3.90,Cash,101178,Ibrahim,102
+179,21,Female,Iced Tea,Large,5.20,Mobile Payment,101179,Ibrahim,102
+180,35,Female,Latte,Medium,3.90,Mobile Payment,101180,Ravin,103
+181,41,Male,Mocha,Large,5.20,Credit Card,101181,Razhan,100
+182,44,Male,Espresso,Medium,3.90,Mobile Payment,101182,Daryan,101
+183,32,Female,Mocha,Small,2.40,Credit Card,101183,Ravin,103
+184,28,Female,Espresso,Small,2.40,Credit Card,101184,Ibrahim,102
+185,45,Female,Latte,Large,5.20,Cash,101185,Ibrahim,102
+186,28,Male,Latte,Medium,3.90,Cash,101186,Razhan,100
+187,49,Female,Cold Brew,Small,2.40,Cash,101187,Daryan,101
+188,23,Male,Cold Chocolate,Medium,3.90,Cash,101188,Razhan,100
+189,35,Male,Hot Chocolate,Small,2.40,Mobile Payment,101189,Ravin,103
+190,41,Female,Hot Chocolate,Small,2.40,Mobile Payment,101190,Ravin,103
+191,45,Female,Mocha,Small,2.40,Cash,101191,Daryan,101
+192,37,Male,Latte,Large,5.20,Credit Card,101192,Razhan,100
+193,33,Female,Cappuccino,Medium,3.90,Cash,101193,Razhan,100
+194,29,Male,Cappuccino,Large,5.20,Cash,101194,Razhan,100
+195,39,Female,Mocha,Medium,3.90,Cash,101195,Ravin,103
+196,25,Female,Frappuccino,Medium,3.90,Mobile Payment,101196,Ravin,103
+197,24,Male,Hot Chocolate,Large,5.20,Credit Card,101197,Ravin,103
+198,17,Male,Frappuccino,Small,2.40,Mobile Payment,101198,Daryan,101
+199,34,Female,Cappuccino,Medium,3.90,Credit Card,101199,Razhan,100
+200,33,Female,Iced Tea,Medium,3.90,Mobile Payment,101200,Ravin,103
+201,38,Female,Frappuccino,Medium,3.90,Cash,101201,Ravin,103
+202,50,Female,Cappuccino,Small,2.40,Mobile Payment,101202,Daryan,101
+203,23,Female,Frappuccino,Medium,3.90,Mobile Payment,101203,Ravin,103
+204,50,Male,Latte,Small,2.40,Credit Card,101204,Ravin,103
+205,25,Female,Cappuccino,Large,5.20,Cash,101205,Ibrahim,102
+206,48,Female,Iced Tea,Medium,3.90,Credit Card,101206,Razhan,100
+207,34,Male,Hot Chocolate,Medium,3.90,Credit Card,101207,Ibrahim,102
+208,20,Male,Latte,Small,2.40,Mobile Payment,101208,Ravin,103
+209,42,Female,Cold Brew,Small,2.40,Mobile Payment,101209,Ibrahim,102
+210,33,Male,Cappuccino,Medium,3.90,Cash,101210,Ravin,103
+211,38,Female,Latte,Large,5.20,Credit Card,101211,Ibrahim,102
+212,42,Female,Cold Brew,Medium,3.90,Credit Card,101212,Daryan,101
+213,28,Male,Cold Chocolate,Small,2.40,Cash,101213,Ibrahim,102
+214,30,Female,Cold Brew,Small,2.40,Cash,101214,Daryan,101
+215,41,Female,Frappuccino,Large,5.20,Cash,101215,Ibrahim,102
+216,33,Male,Latte,Small,2.40,Cash,101216,Ibrahim,102
+217,23,Male,Iced Tea,Large,5.20,Mobile Payment,101217,Ibrahim,102
+218,45,Male,Hot Chocolate,Large,5.20,Credit Card,101218,Daryan,101
+219,28,Female,Iced Tea,Large,5.20,Mobile Payment,101219,Razhan,100
+220,31,Male,Latte,Medium,3.90,Credit Card,101220,Ibrahim,102
+221,22,Female,Iced Tea,Medium,3.90,Mobile Payment,101221,Razhan,100
+222,48,Female,Cold Chocolate,Small,2.40,Credit Card,101222,Ibrahim,102
+223,22,Female,Cappuccino,Medium,3.90,Cash,101223,Ibrahim,102
+224,47,Male,Frappuccino,Large,5.20,Credit Card,101224,Ravin,103
+225,49,Male,Americano,Small,2.40,Mobile Payment,101225,Ravin,103
+226,32,Female,Mocha,Medium,3.90,Mobile Payment,101226,Daryan,101
+227,44,Male,Americano,Small,2.40,Credit Card,101227,Razhan,100
+228,42,Female,Cold Chocolate,Large,5.20,Credit Card,101228,Razhan,100
+229,34,Female,Iced Tea,Medium,3.90,Mobile Payment,101229,Razhan,100
+230,37,Female,Cold Brew,Small,2.40,Mobile Payment,101230,Razhan,100
+231,47,Female,Mocha,Medium,3.90,Mobile Payment,101231,Daryan,101
+232,31,Female,Mocha,Small,2.40,Mobile Payment,101232,Ravin,103
+233,50,Female,Americano,Large,5.20,Cash,101233,Razhan,100
+234,38,Male,Hot Chocolate,Medium,3.90,Cash,101234,Ravin,103
+235,19,Female,Hot Chocolate,Medium,3.90,Credit Card,101235,Daryan,101
+236,44,Female,Iced Tea,Large,5.20,Cash,101236,Ravin,103
+237,30,Male,Iced Tea,Large,5.20,Mobile Payment,101237,Ibrahim,102
+238,44,Female,Mocha,Large,5.20,Credit Card,101238,Razhan,100
+239,32,Female,Hot Chocolate,Small,2.40,Credit Card,101239,Razhan,100
+240,41,Male,Hot Chocolate,Small,2.40,Cash,101240,Daryan,101
+241,22,Female,Cold Chocolate,Small,2.40,Cash,101241,Razhan,100
+242,50,Male,Hot Chocolate,Small,2.40,Cash,101242,Ibrahim,102
+243,18,Male,Cold Brew,Small,2.40,Mobile Payment,101243,Daryan,101
+244,33,Female,Cold Brew,Medium,3.90,Credit Card,101244,Daryan,101
+245,50,Female,Latte,Medium,3.90,Cash,101245,Ravin,103
+246,44,Female,Latte,Medium,3.90,Mobile Payment,101246,Daryan,101
+247,38,Male,Frappuccino,Large,5.20,Credit Card,101247,Ibrahim,102
+248,47,Female,Cold Chocolate,Medium,3.90,Mobile Payment,101248,Ibrahim,102
+249,26,Male,Iced Tea,Small,2.40,Cash,101249,Ibrahim,102
+250,48,Female,Cold Chocolate,Small,2.40,Credit Card,101250,Ravin,103
+251,49,Male,Americano,Small,2.40,Credit Card,101251,Razhan,100
+252,49,Male,Latte,Large,5.20,Credit Card,101252,Ravin,103
+253,21,Male,Latte,Small,2.40,Credit Card,101253,Razhan,100
+254,24,Male,Iced Tea,Large,5.20,Cash,101254,Razhan,100
+255,34,Female,Mocha,Large,5.20,Mobile Payment,101255,Daryan,101
+256,39,Female,Iced Tea,Large,5.20,Mobile Payment,101256,Daryan,101
+257,37,Male,Hot Chocolate,Large,5.20,Credit Card,101257,Ibrahim,102
+258,25,Male,Iced Tea,Small,2.40,Credit Card,101258,Razhan,100
+259,29,Female,Hot Chocolate,Small,2.40,Cash,101259,Ravin,103
+260,49,Male,Cold Brew,Medium,3.90,Cash,101260,Razhan,100
+261,27,Male,Cold Brew,Large,5.20,Cash,101261,Razhan,100
+262,30,Female,Iced Tea,Small,2.40,Credit Card,101262,Ibrahim,102
+263,26,Female,Cold Brew,Small,2.40,Mobile Payment,101263,Ibrahim,102
+264,40,Female,Cold Chocolate,Small,2.40,Cash,101264,Ravin,103
+265,49,Female,Americano,Small,2.40,Mobile Payment,101265,Daryan,101
+266,18,Male,Hot Chocolate,Medium,3.90,Credit Card,101266,Razhan,100
+267,37,Male,Frappuccino,Small,2.40,Credit Card,101267,Ravin,103
+268,41,Female,Cold Brew,Medium,3.90,Cash,101268,Razhan,100
+269,28,Male,Latte,Small,2.40,Credit Card,101269,Daryan,101
+270,27,Female,Latte,Small,2.40,Cash,101270,Daryan,101
+271,38,Female,Americano,Medium,3.90,Credit Card,101271,Razhan,100
+272,42,Female,Americano,Medium,3.90,Mobile Payment,101272,Ravin,103
+273,21,Male,Latte,Medium,3.90,Credit Card,101273,Ibrahim,102
+274,37,Female,Latte,Medium,3.90,Credit Card,101274,Razhan,100
+275,38,Male,Latte,Large,5.20,Mobile Payment,101275,Ravin,103
+276,42,Male,Americano,Medium,3.90,Cash,101276,Ravin,103
+277,19,Female,Cold Chocolate,Medium,3.90,Credit Card,101277,Ibrahim,102
+278,35,Male,Hot Chocolate,Small,2.40,Mobile Payment,101278,Razhan,100
+279,46,Male,Iced Tea,Large,5.20,Cash,101279,Daryan,101
+280,21,Male,Iced Tea,Large,5.20,Mobile Payment,101280,Ibrahim,102
+281,46,Male,Cold Chocolate,Large,5.20,Mobile Payment,101281,Daryan,101
+282,34,Female,Mocha,Medium,3.90,Cash,101282,Ibrahim,102
+283,45,Male,Mocha,Medium,3.90,Cash,101283,Daryan,101
+284,43,Female,Cold Brew,Medium,3.90,Mobile Payment,101284,Ravin,103
+285,43,Male,Mocha,Large,5.20,Cash,101285,Daryan,101
+286,38,Female,Cold Brew,Medium,3.90,Mobile Payment,101286,Razhan,100
+287,25,Male,Cappuccino,Large,5.20,Mobile Payment,101287,Ibrahim,102
+288,50,Female,Americano,Small,2.40,Mobile Payment,101288,Daryan,101
+289,36,Male,Cold Chocolate,Medium,3.90,Credit Card,101289,Ravin,103
+290,29,Male,Latte,Large,5.20,Cash,101290,Razhan,100
+291,32,Female,Mocha,Large,5.20,Mobile Payment,101291,Razhan,100
+292,40,Female,Hot Chocolate,Large,5.20,Cash,101292,Ibrahim,102
+293,44,Male,Americano,Small,2.40,Mobile Payment,101293,Daryan,101
+294,47,Male,Cappuccino,Medium,3.90,Mobile Payment,101294,Ravin,103
+295,20,Female,Americano,Large,5.20,Mobile Payment,101295,Razhan,100
+296,20,Female,Latte,Small,2.40,Mobile Payment,101296,Ravin,103
+297,47,Male,Hot Chocolate,Small,2.40,Mobile Payment,101297,Daryan,101
+298,23,Male,Hot Chocolate,Medium,3.90,Credit Card,101298,Ibrahim,102
+299,19,Male,Iced Tea,Large,5.20,Mobile Payment,101299,Razhan,100
+300,18,Female,Hot Chocolate,Small,2.40,Cash,101300,Razhan,100
+301,47,Female,Hot Chocolate,Medium,3.90,Cash,101301,Daryan,101
+302,24,Female,Americano,Small,2.40,Cash,101302,Ravin,103
+303,21,Female,Cold Brew,Small,2.40,Mobile Payment,101303,Razhan,100
+304,37,Female,Espresso,Medium,3.90,Credit Card,101304,Ibrahim,102
+305,18,Female,Cold Brew,Medium,3.90,Credit Card,101305,Ibrahim,102
+306,49,Female,Frappuccino,Large,5.20,Credit Card,101306,Razhan,100
+307,37,Female,Cold Brew,Medium,3.90,Cash,101307,Ravin,103
+308,50,Male,Iced Tea,Medium,3.90,Credit Card,101308,Ibrahim,102
+309,41,Male,Mocha,Large,5.20,Credit Card,101309,Ravin,103
+310,43,Male,Mocha,Small,2.40,Cash,101310,Ibrahim,102
+311,28,Female,Cold Brew,Large,5.20,Mobile Payment,101311,Ravin,103
+312,34,Male,Mocha,Small,2.40,Credit Card,101312,Ibrahim,102
+313,20,Female,Frappuccino,Large,5.20,Credit Card,101313,Ibrahim,102
+314,50,Male,Hot Chocolate,Medium,3.90,Cash,101314,Ibrahim,102
+315,31,Male,Latte,Small,2.40,Credit Card,101315,Razhan,100
+316,36,Male,Frappuccino,Small,2.40,Cash,101316,Razhan,100
+317,27,Female,Latte,Small,2.40,Credit Card,101317,Ibrahim,102
+318,41,Male,Hot Chocolate,Large,5.20,Mobile Payment,101318,Ravin,103
+319,25,Male,Hot Chocolate,Large,5.20,Credit Card,101319,Ibrahim,102
+320,43,Male,Cold Brew,Large,5.20,Credit Card,101320,Ravin,103
+321,28,Female,Latte,Medium,3.90,Credit Card,101321,Daryan,101
+322,50,Male,Espresso,Large,5.20,Cash,101322,Ravin,103
+323,45,Female,Cold Brew,Small,2.40,Credit Card,101323,Ravin,103
+324,17,Female,Cold Chocolate,Medium,3.90,Mobile Payment,101324,Razhan,100
+325,22,Male,Iced Tea,Small,2.40,Cash,101325,Daryan,101
+326,32,Female,Americano,Medium,3.90,Cash,101326,Daryan,101
+327,36,Female,Hot Chocolate,Small,2.40,Cash,101327,Daryan,101
+328,24,Female,Hot Chocolate,Medium,3.90,Mobile Payment,101328,Ibrahim,102
+329,28,Female,Cold Brew,Small,2.40,Credit Card,101329,Daryan,101
+330,29,Female,Frappuccino,Large,5.20,Cash,101330,Ibrahim,102
+331,41,Female,Cold Brew,Small,2.40,Credit Card,101331,Ibrahim,102
+332,32,Male,Mocha,Large,5.20,Credit Card,101332,Daryan,101
+333,19,Female,Latte,Medium,3.90,Mobile Payment,101333,Razhan,100
+334,20,Male,Espresso,Small,2.40,Credit Card,101334,Ravin,103
+335,46,Female,Cold Chocolate,Small,2.40,Mobile Payment,101335,Daryan,101
+336,41,Male,Espresso,Large,5.20,Credit Card,101336,Razhan,100
+337,22,Female,Cold Chocolate,Medium,3.90,Cash,101337,Ibrahim,102
+338,27,Female,Cold Brew,Medium,3.90,Credit Card,101338,Razhan,100
+339,22,Female,Americano,Small,2.40,Mobile Payment,101339,Razhan,100
+340,29,Male,Cold Chocolate,Medium,3.90,Credit Card,101340,Razhan,100
+341,40,Female,Cappuccino,Large,5.20,Mobile Payment,101341,Daryan,101
+342,33,Male,Cold Chocolate,Small,2.40,Credit Card,101342,Ibrahim,102
+343,26,Male,Iced Tea,Medium,3.90,Credit Card,101343,Razhan,100
+344,44,Female,Iced Tea,Small,2.40,Mobile Payment,101344,Daryan,101
+345,46,Female,Hot Chocolate,Large,5.20,Mobile Payment,101345,Ravin,103
+346,26,Male,Latte,Small,2.40,Mobile Payment,101346,Ravin,103
+347,18,Male,Cold Chocolate,Small,2.40,Cash,101347,Razhan,100
+348,44,Female,Mocha,Large,5.20,Cash,101348,Razhan,100
+349,24,Female,Cold Brew,Medium,3.90,Mobile Payment,101349,Ravin,103
+350,36,Male,Cappuccino,Small,2.40,Cash,101350,Daryan,101
+351,47,Female,Latte,Large,5.20,Credit Card,101351,Daryan,101
+352,40,Female,Mocha,Small,2.40,Cash,101352,Razhan,100
+353,43,Female,Mocha,Large,5.20,Credit Card,101353,Daryan,101
+354,21,Male,Hot Chocolate,Medium,3.90,Mobile Payment,101354,Ibrahim,102
+355,43,Female,Mocha,Small,2.40,Cash,101355,Ravin,103
+356,39,Male,Cappuccino,Small,2.40,Cash,101356,Daryan,101
+357,22,Female,Cappuccino,Large,5.20,Cash,101357,Daryan,101
+358,24,Female,Espresso,Medium,3.90,Cash,101358,Razhan,100
+359,17,Female,Americano,Medium,3.90,Mobile Payment,101359,Ravin,103
+360,33,Male,Mocha,Large,5.20,Credit Card,101360,Daryan,101
+361,29,Male,Latte,Small,2.40,Cash,101361,Ibrahim,102
+362,46,Male,Americano,Large,5.20,Credit Card,101362,Daryan,101
+363,37,Female,Hot Chocolate,Small,2.40,Cash,101363,Razhan,100
+364,21,Female,Cold Brew,Medium,3.90,Mobile Payment,101364,Ravin,103
+365,40,Female,Cold Chocolate,Small,2.40,Credit Card,101365,Ravin,103
+366,19,Female,Latte,Small,2.40,Cash,101366,Daryan,101
+367,18,Female,Americano,Medium,3.90,Credit Card,101367,Ravin,103
+368,17,Female,Americano,Small,2.40,Mobile Payment,101368,Ravin,103
+369,40,Male,Cold Brew,Large,5.20,Credit Card,101369,Ibrahim,102
+370,47,Male,Iced Tea,Small,2.40,Cash,101370,Razhan,100
+371,25,Female,Americano,Small,2.40,Mobile Payment,101371,Razhan,100
+372,49,Male,Latte,Large,5.20,Cash,101372,Ibrahim,102
+373,43,Female,Iced Tea,Large,5.20,Mobile Payment,101373,Daryan,101
+374,40,Female,Mocha,Large,5.20,Cash,101374,Ibrahim,102
+375,27,Male,Cappuccino,Medium,3.90,Mobile Payment,101375,Ibrahim,102
+376,30,Male,Hot Chocolate,Large,5.20,Mobile Payment,101376,Razhan,100
+377,21,Female,Mocha,Large,5.20,Mobile Payment,101377,Daryan,101
+378,22,Male,Americano,Large,5.20,Cash,101378,Daryan,101
+379,37,Female,Cold Chocolate,Medium,3.90,Cash,101379,Ravin,103
+380,37,Male,Cold Brew,Medium,3.90,Mobile Payment,101380,Ravin,103
+381,38,Female,Cold Chocolate,Large,5.20,Mobile Payment,101381,Ravin,103
+382,37,Male,Iced Tea,Medium,3.90,Mobile Payment,101382,Ravin,103
+383,43,Male,Cold Brew,Small,2.40,Mobile Payment,101383,Ibrahim,102
+384,30,Female,Frappuccino,Large,5.20,Mobile Payment,101384,Daryan,101
+385,47,Female,Iced Tea,Medium,3.90,Mobile Payment,101385,Ibrahim,102
+386,48,Male,Cold Brew,Large,5.20,Cash,101386,Razhan,100
+387,34,Female,Espresso,Small,2.40,Cash,101387,Ravin,103
+388,42,Female,Cappuccino,Large,5.20,Credit Card,101388,Razhan,100
+389,22,Female,Cappuccino,Medium,3.90,Cash,101389,Ravin,103
+390,43,Female,Espresso,Medium,3.90,Mobile Payment,101390,Daryan,101
+391,47,Male,Latte,Medium,3.90,Credit Card,101391,Ibrahim,102
+392,36,Female,Hot Chocolate,Large,5.20,Cash,101392,Razhan,100
+393,30,Female,Frappuccino,Large,5.20,Cash,101393,Daryan,101
+394,46,Female,Hot Chocolate,Large,5.20,Credit Card,101394,Ibrahim,102
+395,26,Female,Cappuccino,Small,2.40,Mobile Payment,101395,Daryan,101
+396,34,Female,Espresso,Large,5.20,Credit Card,101396,Ravin,103
+397,48,Male,Espresso,Small,2.40,Mobile Payment,101397,Ravin,103
+398,37,Male,Americano,Small,2.40,Credit Card,101398,Razhan,100
+399,23,Male,Iced Tea,Small,2.40,Cash,101399,Ibrahim,102
+400,26,Female,Cold Chocolate,Medium,3.90,Credit Card,101400,Ravin,103
+401,47,Male,Cappuccino,Small,2.40,Mobile Payment,101401,Ravin,103
+402,19,Female,Latte,Small,2.40,Cash,101402,Ravin,103
+403,18,Male,Cold Chocolate,Small,2.40,Mobile Payment,101403,Ibrahim,102
+404,29,Female,Mocha,Medium,3.90,Mobile Payment,101404,Daryan,101
+405,27,Female,Iced Tea,Small,2.40,Mobile Payment,101405,Ibrahim,102
+406,46,Male,Frappuccino,Small,2.40,Cash,101406,Razhan,100
+407,49,Male,Frappuccino,Large,5.20,Cash,101407,Razhan,100
+408,20,Female,Cold Chocolate,Small,2.40,Mobile Payment,101408,Daryan,101
+409,38,Male,Americano,Medium,3.90,Cash,101409,Ravin,103
+410,42,Male,Espresso,Large,5.20,Mobile Payment,101410,Daryan,101
+411,34,Female,Hot Chocolate,Large,5.20,Credit Card,101411,Daryan,101
+412,18,Male,Mocha,Large,5.20,Mobile Payment,101412,Ibrahim,102
+413,17,Female,Espresso,Medium,3.90,Mobile Payment,101413,Razhan,100
+414,29,Female,Cold Brew,Medium,3.90,Cash,101414,Daryan,101
+415,32,Male,Cold Chocolate,Small,2.40,Credit Card,101415,Daryan,101
+416,21,Female,Espresso,Large,5.20,Cash,101416,Razhan,100
+417,18,Male,Hot Chocolate,Large,5.20,Cash,101417,Daryan,101
+418,48,Male,Mocha,Small,2.40,Mobile Payment,101418,Daryan,101
+419,37,Male,Frappuccino,Large,5.20,Cash,101419,Razhan,100
+420,40,Male,Americano,Small,2.40,Mobile Payment,101420,Ibrahim,102
+421,42,Female,Cappuccino,Large,5.20,Cash,101421,Ravin,103
+422,30,Female,Hot Chocolate,Medium,3.90,Mobile Payment,101422,Ravin,103
+423,30,Male,Americano,Medium,3.90,Credit Card,101423,Razhan,100
+424,45,Male,Hot Chocolate,Medium,3.90,Cash,101424,Ibrahim,102
+425,33,Male,Americano,Medium,3.90,Mobile Payment,101425,Ravin,103
+426,31,Male,Cold Chocolate,Large,5.20,Cash,101426,Ibrahim,102
+427,39,Female,Cappuccino,Large,5.20,Cash,101427,Razhan,100
+428,25,Male,Espresso,Medium,3.90,Credit Card,101428,Ravin,103
+429,46,Male,Mocha,Large,5.20,Credit Card,101429,Razhan,100
+430,24,Male,Mocha,Small,2.40,Cash,101430,Ibrahim,102
+431,22,Male,Latte,Small,2.40,Cash,101431,Daryan,101
+432,27,Male,Hot Chocolate,Large,5.20,Credit Card,101432,Daryan,101
+433,27,Female,Latte,Medium,3.90,Mobile Payment,101433,Ibrahim,102
+434,42,Male,Mocha,Medium,3.90,Mobile Payment,101434,Ravin,103
+435,30,Male,Cappuccino,Small,2.40,Mobile Payment,101435,Razhan,100
+436,17,Male,Espresso,Small,2.40,Credit Card,101436,Ibrahim,102
+437,17,Female,Frappuccino,Small,2.40,Mobile Payment,101437,Daryan,101
+438,49,Female,Cold Chocolate,Small,2.40,Mobile Payment,101438,Ibrahim,102
+439,37,Female,Cold Brew,Medium,3.90,Cash,101439,Ravin,103
+440,36,Female,Espresso,Small,2.40,Credit Card,101440,Ravin,103
+441,49,Female,Cappuccino,Small,2.40,Mobile Payment,101441,Daryan,101
+442,25,Female,Espresso,Medium,3.90,Credit Card,101442,Daryan,101
+443,21,Female,Frappuccino,Large,5.20,Credit Card,101443,Daryan,101
+444,42,Male,Hot Chocolate,Small,2.40,Cash,101444,Daryan,101
+445,40,Female,Latte,Medium,3.90,Credit Card,101445,Daryan,101
+446,37,Female,Iced Tea,Large,5.20,Mobile Payment,101446,Razhan,100
+447,40,Female,Mocha,Large,5.20,Credit Card,101447,Ravin,103
+448,26,Female,Espresso,Medium,3.90,Cash,101448,Ravin,103
+449,24,Female,Cold Chocolate,Small,2.40,Cash,101449,Ravin,103
+450,38,Female,Cold Brew,Small,2.40,Credit Card,101450,Razhan,100
+451,49,Female,Mocha,Large,5.20,Mobile Payment,101451,Daryan,101
+452,17,Female,Cold Chocolate,Small,2.40,Mobile Payment,101452,Ibrahim,102
+453,39,Male,Hot Chocolate,Small,2.40,Cash,101453,Ravin,103
+454,40,Female,Mocha,Medium,3.90,Cash,101454,Ibrahim,102
+455,47,Female,Espresso,Medium,3.90,Cash,101455,Razhan,100
+456,48,Male,Cappuccino,Medium,3.90,Mobile Payment,101456,Ibrahim,102
+457,21,Male,Cappuccino,Large,5.20,Credit Card,101457,Daryan,101
+458,34,Male,Frappuccino,Medium,3.90,Credit Card,101458,Razhan,100
+459,42,Female,Cappuccino,Small,2.40,Credit Card,101459,Daryan,101
+460,49,Male,Cappuccino,Medium,3.90,Cash,101460,Razhan,100
+461,25,Male,Latte,Medium,3.90,Credit Card,101461,Ravin,103
+462,42,Male,Frappuccino,Medium,3.90,Cash,101462,Ibrahim,102
+463,30,Female,Latte,Large,5.20,Mobile Payment,101463,Daryan,101
+464,21,Male,Americano,Medium,3.90,Mobile Payment,101464,Ibrahim,102
+465,48,Female,Latte,Small,2.40,Mobile Payment,101465,Daryan,101
+466,20,Male,Mocha,Small,2.40,Credit Card,101466,Ibrahim,102
+467,26,Male,Latte,Large,5.20,Credit Card,101467,Ravin,103
+468,48,Male,Cold Brew,Small,2.40,Cash,101468,Razhan,100
+469,27,Female,Espresso,Small,2.40,Mobile Payment,101469,Razhan,100
+470,20,Male,Cappuccino,Small,2.40,Mobile Payment,101470,Ravin,103
+471,30,Male,Hot Chocolate,Small,2.40,Credit Card,101471,Daryan,101
+472,25,Female,Americano,Medium,3.90,Credit Card,101472,Daryan,101
+473,18,Female,Mocha,Large,5.20,Mobile Payment,101473,Daryan,101
+474,47,Male,Frappuccino,Small,2.40,Mobile Payment,101474,Razhan,100
+475,34,Male,Frappuccino,Medium,3.90,Cash,101475,Ibrahim,102
+476,40,Male,Cold Brew,Large,5.20,Mobile Payment,101476,Daryan,101
+477,33,Female,Latte,Medium,3.90,Mobile Payment,101477,Razhan,100
+478,41,Male,Cold Brew,Large,5.20,Cash,101478,Ibrahim,102
+479,25,Female,Cold Chocolate,Small,2.40,Mobile Payment,101479,Ravin,103
+480,39,Male,Iced Tea,Medium,3.90,Credit Card,101480,Ravin,103
+481,47,Female,Cappuccino,Small,2.40,Cash,101481,Ravin,103
+482,24,Male,Iced Tea,Large,5.20,Credit Card,101482,Razhan,100
+483,24,Male,Frappuccino,Medium,3.90,Cash,101483,Ravin,103
+484,49,Male,Iced Tea,Large,5.20,Cash,101484,Ravin,103
+485,25,Male,Latte,Large,5.20,Cash,101485,Razhan,100
+486,43,Female,Frappuccino,Small,2.40,Mobile Payment,101486,Razhan,100
+487,17,Male,Cold Brew,Large,5.20,Cash,101487,Razhan,100
+488,20,Female,Latte,Large,5.20,Credit Card,101488,Ibrahim,102
+489,35,Male,Americano,Medium,3.90,Credit Card,101489,Ibrahim,102
+490,31,Male,Hot Chocolate,Large,5.20,Mobile Payment,101490,Ravin,103
+491,45,Female,Cold Brew,Small,2.40,Credit Card,101491,Ravin,103
+492,40,Female,Americano,Large,5.20,Credit Card,101492,Daryan,101
+493,17,Female,Latte,Large,5.20,Mobile Payment,101493,Razhan,100
+494,31,Male,Cold Brew,Medium,3.90,Mobile Payment,101494,Daryan,101
+495,30,Male,Cold Chocolate,Large,5.20,Credit Card,101495,Daryan,101
+496,45,Female,Latte,Large,5.20,Cash,101496,Ibrahim,102
+497,17,Male,Iced Tea,Small,2.40,Mobile Payment,101497,Razhan,100
+498,17,Male,Cappuccino,Medium,3.90,Cash,101498,Ibrahim,102
+499,28,Female,Latte,Large,5.20,Mobile Payment,101499,Razhan,100
+500,35,Male,Frappuccino,Large,5.20,Cash,101500,Daryan,101
