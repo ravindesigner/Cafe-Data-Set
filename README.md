@@ -1,5 +1,5 @@
 <div>
-    <p style="font-size:16px;">Our project collects key customer details for a <b>Café</b>, such as <b>Customer ID</b>, <b>Age, <b>Gender</b>, <b>Beverage Ordered</b>, <b>Size</b>, <b>Total Amount Spent</b>, <b>Payment Method</b>, <b>Transaction ID</b>, <b>Staff Name</b>, and <b>Staff ID</b>. These insights are crucial for analyzing Coffee Shop operations and customer preferences.
+    <p style="font-size:18px;">Our project collects key customer details for a <b>Café</b>, such as <b>Customer ID</b>, <b>Age, <b>Gender</b>, <b>Beverage Ordered</b>, <b>Size</b>, <b>Total Amount Spent</b>, <b>Payment Method</b>, <b>Transaction ID</b>, <b>Staff Name</b>, and <b>Staff ID</b>. These insights are crucial for analyzing Coffee Shop operations and customer preferences.
 </p>
 </div>
 <div>
