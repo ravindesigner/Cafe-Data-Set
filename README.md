@@ -16,4 +16,6 @@
         <li><b>Staff Name:</b> The name of the staff member who handled the transaction.</li><br>
         <li><b>Staff ID:</b> A unique identifier for each staff member.</li>
     </ul>
+    <h3>Link of the Colab:</h3>
+    <a href="https://colab.research.google.com/drive/1k6v16xAovGqDZA0zGsr2wN5nIFJYdN3L?usp=sharing">https://colab.research.google.com/drive/1k6v16xAovGqDZA0zGsr2wN5nIFJYdN3L?usp=sharing</a>
 </div>
