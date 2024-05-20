@@ -1,7 +1,8 @@
-# Cafe-Data-Set
-Our project collects key customer details for a Café, such as Customer ID, Age, Gender, Beverage Ordered, Size, Total Amount Spent, Payment Method, Transaction ID, Staff Name, and Staff ID. These insights are crucial for analyzing Coffee Shop operations and customer preferences.
-
-<div class="alert alert-block alert-info">
+<div>
+    <p style="font-size:16px;">Our project collects key customer details for a <b>Café</b>, such as <b>Customer ID</b>, <b>Age, <b>Gender</b>, <b>Beverage Ordered</b>, <b>Size</b>, <b>Total Amount Spent</b>, <b>Payment Method</b>, <b>Transaction ID</b>, <b>Staff Name</b>, and <b>Staff ID</b>. These insights are crucial for analyzing Coffee Shop operations and customer preferences.
+</p>
+</div>
+<div>
         <p style="font-size:16px;">The dataset consists of <b>500 rows</b>, each representing a single transaction in a <b>cafe</b>. The columns in the dataset are:</p>
     <ul style="font-size:14px;">
         <li><b>Customer ID:</b> A unique identifier for each customer.</li><br>
